@@ -22,7 +22,7 @@ A text game in Python where you have to cook a snake before it can poison you.
 - Get the pan
   - **(number)** to choose a cabinet
 - Find the oil
-  - **G + (number)** to guess which container has the oil inside
+  - **(number)** to guess which container has the oil inside
 - Put the oil in the pan
   - **SPACE** to start/stop pouring the oil
 - Add the snake to the pan
