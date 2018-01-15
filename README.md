@@ -3,20 +3,31 @@
 *A project for*
 *OSSU: Introduction to Computer Science and Programming using Python*
 
-A game in Python whereby you have to cook a snake before it can poison you. 
+A text game in Python where you have to cook a snake before it can poison you. 
 
 ### The rules ###
 
-1. After you are bitten 3 times, the game is over
-2. If the snake is fully cooked, you win
+- After you are bitten 3 times, the game is over
+- If the snake is fully cooked, you win
 
 ### How to cook the snake ###
 
 - Light the fire
 - Get the pan
-- Get the oil
+- Find the oil
 - Put the oil in the pan
 - Add the snake to the pan
 
 ### Controls ###
+
+- Light the fire
+  - **WASD** to move through the darkness
+- Get the pan
+  - **(number)** to choose a cabinet
+- Find the oil
+  - **G + (number)** to guess which container has the oil inside
+- Put the oil in the pan
+  - **SPACE** to start/stop pouring the oil
+- Add the snake to the pan
+  - **???** to add the snake to the pan
 
