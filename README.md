@@ -1,8 +1,5 @@
 # cooking-a-snake
 
-*A project for*
-*OSSU: Introduction to Computer Science and Programming using Python*
-
 A text game in Python where you have to cook a snake before it can poison you. 
 
 ### The rules ###
@@ -30,4 +27,6 @@ A text game in Python where you have to cook a snake before it can poison you.
   - **SPACE** to start/stop pouring the oil
 - Add the snake to the pan
   - **???** to add the snake to the pan
+  
+*A project for OSSU: Introduction to Computer Science and Programming using Python*
 
