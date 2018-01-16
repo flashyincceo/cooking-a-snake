@@ -2,6 +2,13 @@
 
 A text game in Python where you have to cook a snake before it can poison you. 
 
+### How to install ###
+1. Make sure you have Python installed (https://www.python.org/downloads/)
+2. Download main.py
+3. Run main.py
+4. Execute the command playCookTheSnake() in a Python shell
+5. Enjoy!
+
 ### The rules ###
 
 - After you are bitten 3 times, the game is over
